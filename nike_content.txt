@@ -118,3 +118,124 @@ Link: https://www.nike.com/t/react-infinity-run-flyknit-mens-running-shoe-QbwPss
 Current Price: $107.97
 Past Price: $160
 
+Name: Nike React Infinity Run Flyknit Premium
+Link: https://www.nike.com/t/react-infinity-run-flyknit-premium-womens-running-shoe-c54NMG/CU0430-002
+Current Price: $136.97
+Past Price: $160
+
+Name: Nike Pro
+Link: https://www.nike.com/t/pro-mens-short-sleeve-camo-top-3xFcs1/CZ1252-084
+Current Price: $26.97
+Past Price: $35
+
+Name: Nike Dri-FIT DNA+
+Link: https://www.nike.com/t/dri-fit-dna-mens-basketball-shorts-5f2V5m/CV1897-070
+Current Price: $49.97
+Past Price: $55
+
+Name: Nike Sportswear Essential
+Link: https://www.nike.com/t/sportswear-essential-womens-funnel-neck-fleece-pullover-hoodie-rclCxC/BV4116-564
+Current Price: $37.97
+Past Price: $60
+
+Name: Nike One
+Link: https://www.nike.com/t/one-womens-mid-rise-leggings-LZcKRd/AJ8827-010
+Current Price: $40.97
+Past Price: $55
+
+Name: Nike Air Force 1 GTX
+Link: https://www.nike.com/t/air-force-1-gtx-mens-shoe-MXf3Lm/CT2858-001
+Current Price: $91.97
+Past Price: $150
+
+Name: KD13
+Link: https://www.nike.com/t/kd13-basketball-shoe-kbKpNV/CI9948-004
+Current Price: $112.97
+Past Price: $150
+
+Name: Nike Rayguns
+Link: https://www.nike.com/t/rayguns-mens-premium-basketball-jersey-mqcFDS/CV1970-010
+Current Price: $82.97
+Past Price: $110
+
+Name: Nike Dri-FIT Rayguns
+Link: https://www.nike.com/t/dri-fit-rayguns-mens-premium-basketball-shorts-V329rk/CV1936-010
+Current Price: $67.97
+Past Price: $90
+
+Name: Nike Air VaporMax 2020
+Link: https://www.nike.com/t/air-vapormax-2020-big-kids-shoe-jCvK2p/CJ4069-002
+Current Price: $150.97
+Past Price: $200
+
+Name: Nike Sportswear
+Link: https://www.nike.com/t/sportswear-big-kids-t-shirt-Q5TsGG/DC7528-010
+Current Price: $17.97
+Past Price: $20
+
+Name: Nike Sportswear
+Link: https://www.nike.com/t/sportswear-big-kids-girls-cropped-hoodie-K9rWrZ/DC9763-615
+Current Price: $30.97
+Past Price: $40
+
+Name: Nike Sportswear
+Link: https://www.nike.com/t/sportswear-big-kids-boys-fleece-crew-Md6ZS0/DA0598-458
+Current Price: $33.97
+Past Price: $45
+
+Name: Jordan
+Link: https://www.nike.com/t/jordan-baby-12-24m-crew-and-pants-set-wvjz6j/65A228-B5K
+Current Price: $41.97
+Past Price: $50
+
+Name: Nike Air Zoom Pegasus 37
+Link: https://www.nike.com/t/air-zoom-pegasus-37-mens-running-shoe-KLvDcj/BQ9646-010
+Current Price: $100.97
+Past Price: $120
+
+Name: Nike Air Zoom Pegasus 37
+Link: https://www.nike.com/t/air-zoom-pegasus-37-womens-running-shoe-Jl0bDf/BQ9647-602
+Current Price: $89.97
+Past Price: $120
+
+Name: Nike Free RN Flyknit 2018
+Link: https://www.nike.com/t/free-rn-flyknit-2018-womens-running-shoe-2Xz32l/942839-001
+Current Price: $84.97
+Past Price: $120
+
+Name: Nike Free RN 2018
+Link: https://www.nike.com/t/free-rn-2018-mens-running-shoe-4VTnGqeZ/942836-002
+Current Price: $64.97
+Past Price: $100
+
+Name: Nike AeroSwift
+Link: https://www.nike.com/t/aeroswift-womens-running-crop-top-rhJVlX/CJ2371-010
+Current Price: $44.97
+Past Price: $60
+
+Name: Nike Fast
+Link: https://www.nike.com/t/fast-womens-7-trail-running-shorts-0PsmRr/CU6262-010
+Current Price: $38.97
+Past Price: $50
+
+Name: Nike Windrunner
+Link: https://www.nike.com/t/windrunner-mens-running-jacket-w6cgXz/CZ9070-451
+Current Price: $103.97
+Past Price: $115
+
+Name: Nike Therma
+Link: https://www.nike.com/t/therma-mens-training-pants-xV5QHN/932253-010
+Current Price: $44.97
+Past Price: $55
+
+Name: Nike DBreak-Type SE
+Link: https://www.nike.com/t/dbreak-type-se-mens-shoe-5B7WTv/CU1756-402
+Current Price: $69.97
+Past Price: $100
+
+Name: Nike React Vision
+Link: https://www.nike.com/t/react-vision-womens-shoe-kGhsR6/CI7523-005
+Current Price: $114.97
+Past Price: $140
+
+49
