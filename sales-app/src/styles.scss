@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400|Roboto+Condensed:400|Nanum+Gothic:400,700");
+.homepage {
+  align-items: center;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  padding: 34px 0;
+  width: 1440px;
+}
+.homepage .backdrop {
+  height: 715px;
+  margin-top: 34px;
+  width: 1324px;
+}
+.homepage .forever21 {
+  align-self: center;
+  letter-spacing: 0px;
+  margin-bottom: 1px;
+  margin-left: 134px;
+  min-height: 35px;
+  width: 203px;
+}
+.homepage .hm {
+  letter-spacing: 0px;
+  margin-left: 143px;
+  min-height: 29px;
+  width: 95px;
+}
+.homepage .nike {
+  letter-spacing: 0px;
+  min-height: 42px;
+  width: 90px;
+}
+.homepage .overlap-group {
+  height: 84px;
+  margin-left: 1px;
+  position: relative;
+  width: 475px;
+}
+.homepage .shop-selection {
+  align-items: flex-start;
+  display: flex;
+  height: 42px;
+  margin-left: 7px;
+  margin-top: 42px;
+  min-width: 943px;
+}
+.homepage .text {
+  left: 245px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 28px;
+}
+.homepage .text-1 {
+  letter-spacing: 0px;
+  margin-left: 1px;
+  min-height: 24px;
+  min-width: 503px;
+}
+.homepage .title {
+  left: 0px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 0px;
+}
+.homepage .uniqlo {
+  letter-spacing: 0px;
+  margin-left: 134px;
+  min-height: 35px;
+  width: 138px;
+}
+.nanumgothic-normal-black-24px {
+  color: black;
+  font-family: "Nanum Gothic", Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
+.nanumgothic-normal-black-36px {
+  color: black;
+  font-family: "Nanum Gothic", Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-normal-black-12px {
+  color: black;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.robotocondensed-normal-black-72px {
+  color: black;
+  font-family: "Roboto Condensed", Helvetica;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 400;
+}

@@ -1,0 +1,42 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+* {
+  box-sizing: border-box;
+}
+.forever21 {
+  align-self: center;
+  letter-spacing: 0px;
+  margin-bottom: 1px;
+  margin-left: 134px;
+  min-height: 35px;
+  width: 203px;
+}
+.hm {
+  letter-spacing: 0px;
+  margin-left: 143px;
+  min-height: 29px;
+  width: 95px;
+}
+.nanumgothic-regular-normal-black-36px {
+  color: black;
+  font-family: "NanumGothic-Regular", Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+}
+.shop-selection {
+  align-items: flex-start;
+  display: flex;
+  height: 42px;
+  width: 943px;
+}
+.title {
+  letter-spacing: 0px;
+  min-height: 42px;
+  width: 90px;
+}
+.uniqlo {
+  letter-spacing: 0px;
+  margin-left: 134px;
+  min-height: 35px;
+  width: 138px;
+}
