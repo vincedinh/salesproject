@@ -1,6 +1,5 @@
 django_backend/mysite/settings.py
-django_backend/mysite/db.sqlite3
-django_backend/mysite/db2.sqlite3
+django_backend/db.sqlite3
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
